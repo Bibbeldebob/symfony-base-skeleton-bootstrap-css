@@ -1,3 +1,8 @@
-body {
-    background-color: white;
-}
+/*
+    Use this file to override bootstrap settings or delete it if it's unnecessary
+    Uncomment "import './styles/app.css';" in app.js if necessary
+*/
+
+/* body {
+    background-color: green ;
+} */
