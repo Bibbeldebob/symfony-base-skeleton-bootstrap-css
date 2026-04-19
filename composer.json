@@ -47,7 +47,8 @@
         "phpstan/phpstan": "^2.1",
         "rector/rector": "^2.3",
         "friendsofphp/php-cs-fixer": "^3.94",
-        "symfony/debug-bundle": "^8.0"
+        "symfony/debug-bundle": "^8.0",
+        "symfony/maker-bundle": "^1.67"
     },
     "scripts": {
         "unit": "vendor/bin/phpunit",
